@@ -1,0 +1,24 @@
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+.title{
+    text-align: center;
+}
+
+.recipe-list{
+    list-style-position: inside;
+    padding: 0;
+}
+
+.recipe-item{
+    margin-bottom: 20px;
+}
+
+.recipes {
+    display: inline-block;
+    margin-bottom: 10px;
+}
